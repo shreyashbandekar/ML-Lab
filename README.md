@@ -11,4 +11,7 @@
 |7.| Write a program to develop the KNN classifier with Manhattan distance for the k value as 5 based on the split up of training and testing dataset as 80-20 on the Fruit dataset.|
 |8.| Write a program to perform an unsupervised K-means clustering technique on the Iris dataset.|
 |9.| Write a program to perform agglomerative clustering based on single-linkage and complete-linkage criteria.|
-|10.| Write a program to develop Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) algorithms.|
+|10.| Write a program to develop Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) algorithms.
+
+
+### *This specific question format is intended solely for internal laboratory use.*
