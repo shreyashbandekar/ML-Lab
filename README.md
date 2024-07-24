@@ -14,4 +14,5 @@
 |10.| Write a program to develop Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) algorithms.|
 |11.| Write a Program to develop a simple single-layer perceptron to implement AND, OR Boolean functions.|
 |12.|Write a program to develop a Multi-layer perceptron to implement AND, NOT, XOR Boolean functions.|
+|13.|Write a program to develop a decision tree classifier based on a weather forecasting dataset.|
 ### *This specific question format is intended solely for internal laboratory use.*
